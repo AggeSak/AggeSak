@@ -1,11 +1,20 @@
 <h2 align="left">Hi 👋</h2>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=AggeSak&show_icons=true&theme=dracula" alt="AggeSak's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AggeSak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AggeSak&show_icons=true&theme=dracula" 
+    alt="AggeSak's GitHub stats" 
+    width="450" 
+    style="margin-right: 20px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AggeSak&locale=en&layout=compact&langs_count=5&theme=dracula" 
+    alt="languages graph" 
+    width="320" 
+  />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
