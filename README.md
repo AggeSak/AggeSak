@@ -1,6 +1,6 @@
-<h2 align="left">👋 Hi there! I'm Angelos</h2>
+<h2 align="left">👋 Hi there!</h2>
 
-<h3 align="left">Full Stack Developer</h3>
+<h3 align="left">Developer</h3>
 
 <div align="center">
   <a href="https://github.com/AggeSak">
