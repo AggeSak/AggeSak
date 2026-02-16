@@ -34,9 +34,19 @@
 
 ### 📊 Contribution Graph
 
+---
+
+### 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AggeSak&theme=dracula&hide_border=true" />
+  <a href="https://github.com/AggeSak/YOUR_PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AggeSak&repo=YOUR_PROJECT_1&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/AggeSak/YOUR_PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AggeSak&repo=YOUR_PROJECT_2&theme=dracula&hide_border=true" />
+  </a>
 </p>
+
 
 
 ---
